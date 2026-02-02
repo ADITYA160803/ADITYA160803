@@ -21,13 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/">
-    <b>📄 Download My Resume</b>
-  </a>
-</p>
-
-
 <hr/>
 
 <h2 align="center">🧠 About Me</h2>
