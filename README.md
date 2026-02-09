@@ -31,11 +31,11 @@
 ---
 <a href="https://aditya160803.github.io/" target="_blank">
   <img align="center"
-       <img src="https://www.svgrepo.com/show/354548/internet-security.svg" />
-
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg"
        height="30"
        width="40" />
 </a>
+
 
 
 <h3 align="left">Connect with me:</h3>
