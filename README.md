@@ -31,8 +31,8 @@
 ---
 <a href="https://aditya160803.github.io/" target="_blank">
   <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg"
-    [![Website](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg)](https://aditya160803.github.io/)
+       src="<img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/2d1e4480-35f1-448c-860c-5558d4fac5c3" />
+"
 
        height="30"
        width="40" />
