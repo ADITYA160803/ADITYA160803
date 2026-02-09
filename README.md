@@ -1,77 +1,78 @@
-# 👋 Hi, I'm Aditya Badarpuria
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/ADITYA160803)
 
-🎓 Cyber Security Student | 🛡️ Cyber Security Intern  
-🔍 Aspiring Penetration Tester & SOC Analyst  
-🌐 Focused on Web Application Security & Real-World Attacks
+<h1 align="center">Hi 👋, I'm Aditya Badarpuria</h1>
+<h3 align="center">Cyber Security Student | Aspiring Penetration Tester & SOC Analyst</h3>
 
----
+<img align="right" alt="Cyber Security" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🧠 About Me
-I am a cybersecurity student with a strong interest in both **offensive security (VAPT)** and
-**defensive security (SOC operations)**.  
-My goal is to develop deep hands-on expertise in identifying vulnerabilities, understanding
-attack techniques, and defending systems through monitoring and incident response.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ADITYA160803&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+### 🔭 I’m currently working on
+- **Web Application Security Labs & VAPT Practice**
 
-### 🔐 Security Tools
-- Burp Suite
-- OWASP ZAP
-- Nmap
-- Wireshark
+### 🌱 I’m currently learning
+- Web Application Penetration Testing  
+- SOC Fundamentals & Log Analysis  
+- OWASP Top 10 (Hands-on)
 
-### 🌐 Web & Network Security
-- OWASP Top 10
-- Web Application Vulnerability Analysis
-- Basic Penetration Testing Concepts
-- TCP/IP, DNS, HTTP/HTTPS
-- Traffic Analysis & Packet Inspection
+### 💬 Ask me about
+- Web Security  
+- OWASP Top 10  
+- Burp Suite, Nmap, Wireshark  
 
-### 💻 Programming & Tech
-- Python
-- C, C++, Java
-- SQL
-- Shell Scripting
-- Flask
-- HTML / CSS / JavaScript
-- PHP
+### 📫 How to reach me
+- **Email:** your-email@gmail.com  
+
+### 📄 Know about my experiences
+- **Resume:** (add Google Drive / PDF link)
+
+### ⚡ Fun fact
+- I enjoy breaking applications to understand how to secure them 😄
 
 ---
 
-## 🧪 Projects
-
-### 🚨 AI-Based Spam Email Detection
-- Built ML & DL models to classify spam vs legitimate emails
-- Implemented Naive Bayes, Logistic Regression, SVM
-- Designed ANN & CNN models
-- Deployed a Flask web application for real-time detection  
-**Tech:** Python, Scikit-learn, TensorFlow/Keras, Flask  
-🔗 GitHub: https://github.com/ADITYA160803/AI-Project
-
-### 📅 Web-Based Timetable Generator
-- Automated timetable creation and resource optimization
-- Role-based modules for students, faculty & admins  
-**Tech:** JavaScript, PHP, CSS
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/ADITYA160803" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-## 🎓 Education
-- **MSc Cyber Security**, National Forensic Sciences University (2025–2027)
-- **BCA**, Indus University (2021–2024)
+<h3 align="left">🛠️ Languages and Tools:</h3>
+
+<p align="left">
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Burp_Suite_Logo.svg" width="40" height="40"/></a>
+</p>
 
 ---
 
-## 🎯 Current Focus
-- Web Application Penetration Testing
-- SOC Fundamentals & Log Analysis
-- TryHackMe / Hands-on Labs
-- Building security-focused GitHub projects
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ADITYA160803&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
 
----
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ADITYA160803&show_icons=true&locale=en&theme=tokyonight" />
+</p>
 
-## 🌐 Connect With Me
-- GitHub: https://github.com/ADITYA160803
-- Email: (add your email)
-- LinkedIn: (add when ready)
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA160803&theme=tokyonight" />
+</p>
