@@ -24,11 +24,6 @@
 - OWASP Top 10  
 - Burp Suite, Nmap, Wireshark  
 
-### 📫 How to reach me
-- **Email:** your-email@gmail.com  
-
-### 📄 Know about my experiences
-- **Resume:** (add Google Drive / PDF link)
 
 ### ⚡ Fun fact
 - I enjoy breaking applications to understand how to secure them 😄
