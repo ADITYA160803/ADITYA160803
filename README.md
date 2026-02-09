@@ -29,14 +29,6 @@
 - I enjoy breaking applications to understand how to secure them 😄
 
 ---
-<a href="https://aditya160803.github.io/" target="_blank">
-  <img
-    align="center"
-    src="https://stock.adobe.com/in/images/spy-vector-icon-isolated-on-transparent-background-spy-transparency-logo-design/233127110"
-    height="30"
-    width="40"
-  />
-</a>
 
 
 
