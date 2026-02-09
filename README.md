@@ -30,13 +30,14 @@
 
 ---
 <a href="https://aditya160803.github.io/" target="_blank">
-  <img align="center"
-       src="<img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/2d1e4480-35f1-448c-860c-5558d4fac5c3" />
-"
-
-       height="30"
-       width="40" />
+  <img
+    align="center"
+    src="https://stock.adobe.com/in/images/spy-vector-icon-isolated-on-transparent-background-spy-transparency-logo-design/233127110"
+    height="30"
+    width="40"
+  />
 </a>
+
 
 
 
