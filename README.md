@@ -1,101 +1,77 @@
+# 👋 Hi, I'm Aditya Badarpuria
 
-<h1 align="center">👋 Hi, I'm Aditya</h1>
+🎓 Cyber Security Student | 🛡️ Cyber Security Intern  
+🔍 Aspiring Penetration Tester & SOC Analyst  
+🌐 Focused on Web Application Security & Real-World Attacks
 
-<p align="center">
-  <b>─── CYBER SECURITY INTERN | ASPIRING PENETRATION TESTER & SOC ANALYST ───</b>
-</p>
+---
 
-<p align="center">
-  <i>[ Turning Weaknesses Into Your Strongest Defense ]</i>
-</p>
+## 🧠 About Me
+I am a cybersecurity student with a strong interest in both **offensive security (VAPT)** and
+**defensive security (SOC operations)**.  
+My goal is to develop deep hands-on expertise in identifying vulnerabilities, understanding
+attack techniques, and defending systems through monitoring and incident response.
 
-<p align="center">
-  🔐 Cyber Security | 🌐 Web Application Security | 🛡️ VAPT | 📊 SOC Fundamentals
-</p>
+---
 
-<hr/>
+## 🛠️ Technical Skills
 
-<p align="center">
-  <a href="https://aditya160803.github.io/">
-    <b>🌐 Visit My Portfolio</b>
-  </a>
-</p>
+### 🔐 Security Tools
+- Burp Suite
+- OWASP ZAP
+- Nmap
+- Wireshark
 
-<hr/>
+### 🌐 Web & Network Security
+- OWASP Top 10
+- Web Application Vulnerability Analysis
+- Basic Penetration Testing Concepts
+- TCP/IP, DNS, HTTP/HTTPS
+- Traffic Analysis & Packet Inspection
 
-<h2 align="center">🧠 About Me</h2>
+### 💻 Programming & Tech
+- Python
+- C, C++, Java
+- SQL
+- Shell Scripting
+- Flask
+- HTML / CSS / JavaScript
+- PHP
 
-<p align="center">
-I am an aspiring penetration tester and SOC analyst with a strong focus on 
-web application security and real-world attack techniques.  
-My goal is to build deep practical expertise in VAPT and SOC fundamentals 
-and grow into a security professional who understands both how systems are 
-attacked and how they are defended.
-</p>
+---
 
-<hr/>
+## 🧪 Projects
 
-<h2 align="center">🛠️ Skills & Tools</h2>
+### 🚨 AI-Based Spam Email Detection
+- Built ML & DL models to classify spam vs legitimate emails
+- Implemented Naive Bayes, Logistic Regression, SVM
+- Designed ANN & CNN models
+- Deployed a Flask web application for real-time detection  
+**Tech:** Python, Scikit-learn, TensorFlow/Keras, Flask  
+🔗 GitHub: https://github.com/ADITYA160803/AI-Project
 
-<p align="center">
-<b>Security & Networking</b><br/>
-TCP/IP • DNS • HTTP/HTTPS • Network Security Fundamentals •  
-Traffic Analysis • Malware & Phishing Awareness
-</p>
+### 📅 Web-Based Timetable Generator
+- Automated timetable creation and resource optimization
+- Role-based modules for students, faculty & admins  
+**Tech:** JavaScript, PHP, CSS
 
-<p align="center">
-<b>Web & Application Security</b><br/>
-OWASP Top 10 • Web Vulnerability Analysis • Basic Penetration Testing
-</p>
+---
 
-<p align="center">
-<b>Tools</b><br/>
-Burp Suite • OWASP ZAP • Nmap • Wireshark
-</p>
+## 🎓 Education
+- **MSc Cyber Security**, National Forensic Sciences University (2025–2027)
+- **BCA**, Indus University (2021–2024)
 
-<p align="center">
-<b>Programming</b><br/>
-C • C++ • Java • ASP.NET • SQL • Shell Scripting • Android Development
-</p>
+---
 
-<hr/>
+## 🎯 Current Focus
+- Web Application Penetration Testing
+- SOC Fundamentals & Log Analysis
+- TryHackMe / Hands-on Labs
+- Building security-focused GitHub projects
 
-<h2 align="center">🚀 Projects</h2>
+---
 
-<p align="center">
-<b>🧠 AI-Based Spam Email Detection</b><br/>
-ML/DL-based spam classification system with Flask web deployment<br/>
-Naive Bayes • Logistic Regression • SVM • ANN • CNN<br/>
-🔗 https://github.com/ADITYA160803/AI-Project
-</p>
-
-<br/>
-
-<p align="center">
-<b>📅 Web-Based Timetable Generator</b><br/>
-Automated classroom, faculty & time allocation system<br/>
-JavaScript • PHP • CSS
-</p>
-
-<hr/>
-
-<h2 align="center">🎓 Education</h2>
-
-<p align="center">
-<b>MSc Cyber Security Sciences</b> – NFSU (2025–2027)<br/>
-<b>Bachelor of Computer Application</b> – Indus University (2021–2024)
-</p>
-
-<hr/>
-
-<h2 align="center">🔗 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/aditya160803">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## 🌐 Connect With Me
+- GitHub: https://github.com/ADITYA160803
+- Email: (add your email)
+- LinkedIn: (add when ready)
