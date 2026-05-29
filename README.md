@@ -29,7 +29,7 @@
 - I enjoy breaking applications to understand how to secure them 😄
 
 ---
-## 🛡️ Cybersecurity Arsenal
+## 🛡️ Cybersecurity Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
@@ -69,5 +69,12 @@
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Burp_Suite_Logo.svg" width="40" height="40"/></a>
 </p>
 
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,react,nextjs,nodejs,express,mongodb" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,linux,firebase,vscode" />
+</div>
 ---
 
