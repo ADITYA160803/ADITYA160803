@@ -55,22 +55,6 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
-<p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Burp_Suite_Logo.svg" width="40" height="40"/></a>
-</p>
-
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,cpp,react,nextjs,nodejs,express,mongodb" />
   <br>
